@@ -42,7 +42,3 @@
 - [NPTEL Java (Jan-Apr 2024)]([https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs105/Course/NPTEL24CS105S65200425704407096.pdf](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs105/Course/NPTEL24CS105S65200425704407096.pdf))
 - Simplilearn DevOps (Jun 2024)
 
----
-
-### 🗓️ GitHub Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yashthorat1912&theme=react-dark)
